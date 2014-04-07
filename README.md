@@ -15,7 +15,8 @@ forums.png
 logo.png
 home.png - Download here please: http://www.mediafire.com/download/d0g5enkllhg7yll/images.rar  . Unzip it in the the zip you downloaded.
 NOTE: No php/java functions are scripted. Its only homepage theme not built as clicking but possible in features.
-
+Availible with installation file . Open it with notepad and do what is written in it!
 HIRING 
 
 Hiring is on just pull a request with your info and your accepted maybe. Good luck in it .
+

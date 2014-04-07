@@ -1,8 +1,8 @@
 div {
 height: 1000px ;
 width: 950px ;
-border-color: #6495ED ;
-background-color: #BCD2EE ;
+border-color: blue ;
+background-color: silver ;
 border-style: solid ;
 border-width: 2px ;
 border-radius: 5px ;
@@ -13,4 +13,11 @@ text-align: center;
 }
 h3 {
 text-align: right;	
+}
+#div.createBolders {
+font-weight: bold ;
+
+}
+body {
+background-image: url("background.jpeg") ;
 }
